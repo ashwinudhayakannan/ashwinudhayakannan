@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ashwinudhayakannan
-- 👀 I’m interested in Data Analytics and Machine Learning 
+- 👀 I’m interested in Data Science and Deep Learning 
 - 🌱 I’m currently learning Machine Learning Algorithms
 - 📫 How to reach me 
 -     Mobile  : 8778840192
