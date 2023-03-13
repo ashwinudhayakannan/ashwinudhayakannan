@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ashwinudhayakannan
 - 👀 I’m interested in Data Science and Deep Learning 
-- 🌱 I’m currently learning Machine Learning Algorithms
+- 🌱 I’m currently learning Deep Learning Algorithms & Data Analytics
 - 📫 How to reach me 
 -     Mobile  : 8778840192
 -     Mail Id : ashwinudhayakannan@gmail.com
